@@ -1,6 +1,6 @@
 // Jacob Rogers
 // December 20th, 2017
-// linked lists, many possible function implemented through a working example.
+// linked lists, many possible functions implemented through a working example.
 
 #include <ctype.h>
 #include <stdio.h>
